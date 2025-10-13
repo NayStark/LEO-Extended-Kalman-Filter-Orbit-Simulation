@@ -18,9 +18,12 @@ Python script that showcases an EKF filter for a LEO orbit, with simulated senso
 - Position estimation error converges within a few kilometers
 - Includes 3D orbit visualization (gif)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30215de5-8837-4be7-94e9-d3e8f042c8f5" alt="LEO Orbit EKF" width="700"/>
+</p>
 ---
 
-The animation and plots will be saved automatically to your Desktop.
+The animation will be saved automatically to your Desktop.
 
 ---
 
