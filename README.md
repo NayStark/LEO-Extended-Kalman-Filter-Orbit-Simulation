@@ -1,6 +1,9 @@
 # LEO Extended Kalman Filter Orbit Simulation
 Python script that showcases an EKF filter for a LEO orbit, with simulated sensor data, compared to the "actual" calculated orbit.
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation/main/output/LEO_EKF_RK45_Orbit-ezgif.com-optimize.gif" alt="LEO Orbit EKF" width="600"/>
+</p>
 
 ## 🛰 Overview
 - Simulates full 3D two-body orbital motion using **RK45 numerical integration**
@@ -13,7 +16,7 @@ Python script that showcases an EKF filter for a LEO orbit, with simulated senso
 ## 📈 Results
 - EKF successfully tracks the satellite orbit
 - Position estimation error converges within a few kilometers
-- Includes 3D orbit visualization (`LEO_EKF_RK45_Orbit.gif`)
+- Includes 3D orbit visualization (gif)
 
 ---
 
