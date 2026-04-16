@@ -1,19 +1,19 @@
 # LEO Extended Kalman Filter Orbit Simulation
 <p align="center">
 
-![GNC](https://img.shields.io/badge/Domain-GNC-red)
-![Aerospace Engineering](https://img.shields.io/badge/Field-Aerospace-blueviolet)
+![GNC](https://img.shields.io/badge/Domain-Guidance_Navigation_Control-red)
+![System-Orbit Estimation](https://img.shields.io/badge/System-Orbit_Estimation-blueviolet)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-Linear_Algebra-013243?logo=numpy)
 ![SciPy](https://img.shields.io/badge/SciPy-ODE_Solver-8CAAE6?logo=scipy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib)
 
-![Method](https://img.shields.io/badge/Method-EKF-critical)
-![Physics](https://img.shields.io/badge/Physics-Orbital_Dynamics-black)
+![Method-EKF](https://img.shields.io/badge/Method-Extended_Kalman_Filter-critical)
+![Physics-Two Body](https://img.shields.io/badge/Physics-Two_Body_Orbital_Dynamics-black)
 
 ![Simulation](https://img.shields.io/badge/Type-Orbit_Simulation-success)
-![Output](https://img.shields.io/badge/Result-3D_Trajectory-brightgreen)
+![Output-3D Trajectory](https://img.shields.io/badge/Result-3D_State_Estimation-brightgreen)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
