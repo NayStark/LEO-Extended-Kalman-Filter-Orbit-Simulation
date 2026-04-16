@@ -2,9 +2,9 @@
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-linear%20algebra-013243?logo=numpy)
+![NumPy](https://img.shields.io/badge/NumPy-Linear%20Algebra-013243?logo=numpy)
 ![SciPy](https://img.shields.io/badge/SciPy-ODE%20solver-8CAAE6?logo=scipy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-11557C?logo=matplotlib)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib)
 ![GNC](https://img.shields.io/badge/GNC-Orbit%20Estimation-orange)
 ![EKF](https://img.shields.io/badge/Algorithm-Extended%20Kalman%20Filter-red)
 ![Orbit%20Dynamics](https://img.shields.io/badge/Physics-Two%20Body%20Problem-blueviolet)
