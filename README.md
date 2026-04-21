@@ -45,7 +45,7 @@ The following results were derived from a 500-trial Monte Carlo analysis.
 The Normalized Estimation Error Squared (NEES) and Normalized Innovation Squared (NIS) plots verify that the filter is statistically consistent—meaning the filter's computed covariance correctly bounds the actual estimation error.
 
 <p align="center">
-  <img src="docs/figure_1.png" alt="NEES/NIS Consistency" width="700"/>
+  <img src="docs/Figure_1.png" alt="NEES/NIS Consistency" width="700"/>
   <br><em>Fig 1: NEES (State Consistency) and NIS (Measurement Residual Consistency). The filter remains within theoretical 95% confidence bounds.</em>
 </p>
 
@@ -53,7 +53,7 @@ The Normalized Estimation Error Squared (NEES) and Normalized Innovation Squared
 The autocorrelation of the innovation sequence provides a "Whiteness Test." An optimal EKF extracts all available information from the measurements, leaving only white noise in the residuals. The sharp spike at zero lag followed by flat, low-magnitude correlation confirms that the filter has effectively "whitened" the innovation sequence.
 
 <p align="center">
-  <img src="docs/figure_2.png" alt="Whiteness Test" width="700"/>
+  <img src="docs/Figure_2.png" alt="Whiteness Test" width="700"/>
   <br><em>Fig 2: Innovation autocorrelation (Whiteness Test) confirms filter optimality.</em>
 </p>
 
@@ -61,7 +61,7 @@ The autocorrelation of the innovation sequence provides a "Whiteness Test." An o
 Final tracking precision is analyzed in the steady-state window (final 15 minutes of the orbit). The convergence indicates the filter successfully settled into an optimal tracking regime with sub-centimeter stability.
 
 <p align="center">
-  <img src="docs/figure_3.png" alt="RMSE Jitter" width="700"/>
+  <img src="docs/Figure_3.png" alt="RMSE Jitter" width="700"/>
   <br><em>Fig 3: RMSE Jitter Check (Final 15 Minutes) showing steady-state convergence.</em>
 </p>
 
